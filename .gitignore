@@ -7,7 +7,6 @@ secrets.env
 
 # Never save data in git.
 data
-models
 metrics
 figures
 predictions
